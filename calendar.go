@@ -83,7 +83,7 @@ const (
 	PropertyDue             Property = "DUE"
 	PropertyDtstart         Property = "DTSTART"
 	PropertyDuration        Property = "DURATION"
-	PropertyFreebusy        Property = "FREEBUSY"
+	PropertyFreebusy        Property = "X-MICROSOFT-CDO-BUSYSTATUS"
 	PropertyTransp          Property = "TRANSP" // TEXT
 	PropertyTzid            Property = "TZID"   // TEXT
 	PropertyTzname          Property = "TZNAME" // TEXT
